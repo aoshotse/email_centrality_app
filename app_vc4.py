@@ -23,7 +23,7 @@ from io import BytesIO
 from collections import defaultdict
 
 # Add title and description
-st.title("Strategic Email Network Analyzer")
+st.title("Email Network Analyzer")
 st.markdown("""
 This application analyzes email networks based on Outlook inbox data. Upload your email data to visualize connections, analyze centrality metrics,
 and identify key players in your network.
