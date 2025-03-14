@@ -1,0 +1,7 @@
+streamlit
+pandas
+networkx
+numpy
+plotly
+re
+plotly.graph_objects
